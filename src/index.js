@@ -48,7 +48,7 @@ return (
    </div>
    <p class="maintext center-align">Set your Availability<br/></p>
    <div className="row sidepicture">
-      <div className="col l5 s12"><img src={logo} height="500" width="600" /></div>
+      <div className="col l5 s12"><img src={logo}  /></div>
       <div className="col l7 s12">
          <div className="box center-align">
             <p>
